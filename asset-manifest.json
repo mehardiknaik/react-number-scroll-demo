@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-number-scroll-demo/static/css/main.11c992ee.css",
+    "main.js": "/react-number-scroll-demo/static/js/main.a87f3660.js",
+    "static/js/787.43145567.chunk.js": "/react-number-scroll-demo/static/js/787.43145567.chunk.js",
+    "index.html": "/react-number-scroll-demo/index.html",
+    "main.11c992ee.css.map": "/react-number-scroll-demo/static/css/main.11c992ee.css.map",
+    "main.a87f3660.js.map": "/react-number-scroll-demo/static/js/main.a87f3660.js.map",
+    "787.43145567.chunk.js.map": "/react-number-scroll-demo/static/js/787.43145567.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c992ee.css",
+    "static/js/main.a87f3660.js"
+  ]
+}
