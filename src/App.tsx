@@ -6,8 +6,8 @@ function App() {
   const [number, setNumber] = useState(444);
   const [number1, setnumber1] = useState(-444.444);
   const random = () => {
-    setNumber(Math.floor(Math.random() * (40000 - 1 + 1)) + 4);
-    setnumber1(Math.floor(Math.random() * (4 - 10000 + 1)) + 4);
+    setNumber(Math.random()*(10000.00-1.00+1.00)+1.00);
+    setnumber1(Math.random()*(10000.00-1.00+1.00)+1.00);
   };
 
   const incdec=(e)=>{
